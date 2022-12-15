@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - tests function that prinys if integer is positive or negative
+ * min - tests function that prints if integer is positive or negative
  * Return: 0
  */
 
