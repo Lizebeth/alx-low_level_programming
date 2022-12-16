@@ -4,7 +4,8 @@
  * print diagonal - printing line
  * @n: integer params
  */
-void print_diagonal(int n);
+
+void print_diagonal(int n)
 {
 	int x;
 
