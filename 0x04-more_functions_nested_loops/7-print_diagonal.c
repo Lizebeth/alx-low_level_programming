@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * print_diagonal -> printing line
- * @n: integer params
+ * print_diagonal -> prints diagonal lline n times
+ * @n: times diagonal line is printed
+ * Return: no return
  */
+
 void print_diagonal(int n)
 {
 	int x, i;
@@ -13,8 +15,8 @@ void print_diagonal(int n)
 	else
 	{
 		for (x = 0; x < n; x++)
-		{
-		for (i = 0; i < x; i ++)
+		{	
+			for (i = 0; i < x; i++)
 			_putchar(' ');
 		_putchar(92);
 		_putchar('\n');
