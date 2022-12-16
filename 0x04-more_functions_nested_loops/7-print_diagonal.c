@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - printing line
+ * print_diagonal -> printing line
  * @n: integer params
  */
 
