@@ -2,7 +2,7 @@
 
 /**
  * _print_rev_recursion - Prints a string in reverse.
- * @s: pointer to string 
+ * @s: pointer to string
  *
  * Return: void
  */
